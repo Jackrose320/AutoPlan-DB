@@ -1,4 +1,4 @@
-package com.users;
+package main.java.com.users;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

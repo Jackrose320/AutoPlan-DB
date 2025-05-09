@@ -1,4 +1,5 @@
-package com;
+package main.java.com;
+
 import java.sql.Connection;
 
 public class DBTest {

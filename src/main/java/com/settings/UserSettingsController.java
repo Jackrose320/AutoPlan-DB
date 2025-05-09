@@ -1,4 +1,4 @@
-package com.settings;
+package main.java.com.settings;
 
 import java.sql.SQLException;
 import java.util.List;

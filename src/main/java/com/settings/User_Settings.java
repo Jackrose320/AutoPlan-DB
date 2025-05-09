@@ -1,4 +1,4 @@
-package com.settings;
+package main.java.com.settings;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

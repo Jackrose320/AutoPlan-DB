@@ -1,4 +1,4 @@
-package com.users;
+package main.java.com.users;
 
 import java.sql.SQLException;
 import java.util.List;

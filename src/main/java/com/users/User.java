@@ -1,4 +1,4 @@
-package com.users;
+package main.java.com.users;
 
 /**
  * Data representation of {@code User}.
